@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <windows.h>
+#include <windows.h> //contains declarations for all of the functions in the Windows API
 typedef struct node
 {
     int id;
